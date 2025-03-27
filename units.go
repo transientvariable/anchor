@@ -1,4 +1,4 @@
-package sup
+package support
 
 const (
 	// SI size units
