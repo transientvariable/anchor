@@ -1,5 +1,5 @@
-= Support
-Matt Nicholls <transientvariable@gmail.com>
+= support
+Matt Nicholls <transientvariable@protonmail.com>
 :keywords: golang,support
 :experimental: true
 :icons: font
@@ -7,9 +7,6 @@ Matt Nicholls <transientvariable@gmail.com>
 :imagesdir: docs/image
 :sectanchors: true
 :source-highlighter: prettify
-:toc: left
-:toclevels: 3
-:toc-title: Contents
 
 ifdef::env-github[]
 :tip-caption: :bulb:
