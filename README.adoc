@@ -1,13 +1,13 @@
-= Sup
+= Support
 Matt Nicholls <transientvariable@gmail.com>
-:keywords: Golang,Support
+:keywords: golang,support
 :experimental: true
 :icons: font
 :iconfont-cdn: //cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/fontawesome.min.css
 :imagesdir: docs/image
 :sectanchors: true
 :source-highlighter: prettify
-:toc:
+:toc: left
 :toclevels: 3
 :toc-title: Contents
 
@@ -18,3 +18,20 @@ ifdef::env-github[]
 :caution-caption: :fire:
 :warning-caption: :warning:
 endif::[]
+
+== Overview
+
+Miscellaneous reusable components in Go used by other modules.
+
+== Installation
+
+.Prerequisites
+* The link:https://golang.org/dl/[Golang Runtime], version 1.24.x or later
+
+[source%nowrap,bash]
+----
+❯ go get -u github.com/transientvariable/support
+----
+
+== License
+This project is licensed under the link:LICENSE[MIT License].
