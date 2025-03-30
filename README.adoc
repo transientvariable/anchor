@@ -1,4 +1,4 @@
-= support
+= anchor
 Matt Nicholls <transientvariable@protonmail.com>
 :keywords: golang,support
 :experimental: true
@@ -27,7 +27,7 @@ Miscellaneous reusable components in Go used by other modules.
 
 [source%nowrap,bash]
 ----
-❯ go get -u github.com/transientvariable/support-go
+❯ go get -u github.com/transientvariable/anchor
 ----
 
 == License

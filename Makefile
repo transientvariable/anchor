@@ -8,9 +8,9 @@ GO:=$(GOROOT)/bin/go
 export PATH:=$(GOROOT)/bin:$(PATH)
 
 ENV               ?= dev
-PROJECT_NAME      := transientvariable/support-go
+PROJECT_NAME      := transientvariable/anchor
 COMMIT            := $(shell git rev-parse --short HEAD)
-BIN_NAME          := support-go
+BIN_NAME          := anchor
 BUILD_TIMESTAMP   := $(date -u +'%Y-%m-%dT%H:%M:%SZ')
 BUILD_OUTPUT_DIR  := build
 

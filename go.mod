@@ -1,4 +1,4 @@
-module github.com/transientvariable/support-go
+module github.com/transientvariable/anchor
 
 go 1.24.1
 

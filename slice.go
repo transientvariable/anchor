@@ -1,4 +1,4 @@
-package support
+package anchor
 
 // Unique returns the slice containing the unique values from the provided slice.
 func Unique[S comparable](values ...S) []S {
